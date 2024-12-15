@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from 'react';
 import hero from '../assets/hero.jpeg'
 const HeroSection = () => {
   let [group, setGrpStatus]=useState<boolean>(true);

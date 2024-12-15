@@ -1,4 +1,3 @@
-import React from "react";
 import facebook from '../assets/facebookLogo.svg'
 
 const SignupModalMob = ({isModalOpen, handleSignupClick}:{isModalOpen:boolean, handleSignupClick:()=>void}) => {
